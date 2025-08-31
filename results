@@ -1,0 +1,24 @@
+Running Genetic Algorithm...
+Generation 1: New best Sharpe Ratio = 0.5982
+Generation 2: New best Sharpe Ratio = 0.6015
+Generation 3: New best Sharpe Ratio = 0.6122
+Generation 4: New best Sharpe Ratio = 0.6201
+Generation 5: New best Sharpe Ratio = 0.6258
+Generation 6: New best Sharpe Ratio = 0.6311
+Generation 7: New best Sharpe Ratio = 0.6345
+Generation 8: New best Sharpe Ratio = 0.6402
+Generation 9: New best Sharpe Ratio = 0.6418
+Generation 10: New best Sharpe Ratio = 0.6425
+Generation 11: New best Sharpe Ratio = 0.6433
+Generation 12: New best Sharpe Ratio = 0.6450
+Generation 13: New best Sharpe Ratio = 0.6452
+Generation 14: New best Sharpe Ratio = 0.6461
+Generation 15: New best Sharpe Ratio = 0.6468
+Generation 16: New best Sharpe Ratio = 0.6472
+Generation 17: New best Sharpe Ratio = 0.6480
+Generation 18: New best Sharpe Ratio = 0.6485
+Generation 19: New best Sharpe Ratio = 0.6491
+Generation 20: New best Sharpe Ratio = 0.6494
+
+--- Optimization Complete ---
+Optimal Sharpe Ratio: 0.6494
